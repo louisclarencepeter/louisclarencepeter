@@ -1,4 +1,4 @@
 Hi I am Louis
 I am DCI Student
-Learn Web Developement
+Learning Web Developement
 Aspring Full Stack Developer
