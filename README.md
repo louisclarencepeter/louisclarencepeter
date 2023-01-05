@@ -1,4 +1,4 @@
 # Hi I am Louis
-## I am DCI Student
+## I am a DCI Student
 ### Learning Web Developement
 #### Aspring Full Stack Developer
