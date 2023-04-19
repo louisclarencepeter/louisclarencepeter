@@ -7,6 +7,3 @@ Louis Peter is an aspiring web developer currently studying at DCI in Frankfurt,
 ![](https://github-readme-stats.vercel.app/api?username=louisclarencepeter&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=louisclarencepeter&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=louisclarencepeter&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=louisclarencepeter&theme=radical&no-frame=false&no-bg=true&margin-w=4)
