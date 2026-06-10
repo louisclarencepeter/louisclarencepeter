@@ -1,6 +1,6 @@
 # Louis Clarence Peter
 
-Frontend-focused developer building fast, responsive websites and web apps for real businesses, portfolios, travel brands, and service companies.
+Full-stack developer based in Frankfurt am Main, building fast, responsive websites and web apps for real businesses, portfolios, travel brands, and service companies.
 
 I enjoy turning ideas into polished digital products: clean interfaces, smooth user flows, practical content structure, and deployable production sites.
 
@@ -16,11 +16,9 @@ I enjoy turning ideas into polished digital products: clean interfaces, smooth u
 
 ## Recent Work
 
-- [Destination Paradise](https://yournexttriptoparadise.com/) - Travel platform for Zanzibar and Tanzania experiences, built with React, Vite, interactive maps, and AI-assisted trip planning.
-- [Prima Vista Bio Reinigung](https://reinigung-primavista.com/) - Business website for a professional cleaning service.
-- [Louis Peter Photography](https://louisclarencepeter.com/) - Photography portfolio and services website.
-- [Metz](https://metzsite.netlify.app/) - Construction company website.
-- [ITL Land Ventures](https://itllandventures.com/) - Real estate land sales website.
+- [Prima Vista Bauprojekte](https://primavista.netlify.app/) - Premium business website with a polished visual system, project-focused layout, and clear contact routes.
+- [Flowdesk Tool](https://flowdesktool.com/) - Focused web tool with a minimal interface, fast sign-in flow, and a workflow built around one clear job.
+- [Destination Paradise](https://www.yournexttriptoparadise.com/) - Travel website for Zanzibar and Tanzania experiences with photography-led layouts and clear trip-planning entry points.
 
 ## What I Build
 
